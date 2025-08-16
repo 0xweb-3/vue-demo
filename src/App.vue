@@ -1,6 +1,5 @@
 <template>
-  <div>Hello App </div>
-  <el-button size="large" type="primary">按钮</el-button>
+  <router-view></router-view>
 </template>
 
 <style lang="scss">
